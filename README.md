@@ -31,7 +31,7 @@ References
 License
 -------
 
-All the code included in this project is licensed under the terms of the MIT license.
+All the documents included in this project are licensed under the terms of the Apache 2.0 license.
 
 #
 
