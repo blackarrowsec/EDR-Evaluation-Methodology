@@ -7,9 +7,12 @@ EDR solutions are the weapon of choice in our model of Threat Hunting. We also a
 
 This is an alive project, and will be updated as we perform new evaluations and revisit old solutions to check for improvements.
 
+Besides the updated version of the methodology in this repository, you can access the Google SpreadSheet Table [here](https://docs.google.com/spreadsheets/d/1fTuqEXysxNzNURoHKDjuuayd4Kyifvpp/edit?usp=sharing&ouid=101713221252055534624&rtpof=true&sd=true).
+
 <p align="center">
   <img src="https://github.com/blackarrowsec/EDR-Evaluation-Methodology/assets/44729887/ac602bc4-73a8-48c1-b1b0-befdb60bfa96" width="960" >
 </p>
+
 
 Authors
 ---------------
