@@ -1,11 +1,11 @@
 # EDR-Evaluation-Methodology
 [![](https://img.shields.io/badge/Service-Threat%20Hunting-A43792?style=flat-square)]() [![](https://img.shields.io/badge/Category-Methodology-E5A505?style=flat-square)]() 
 
-Nowadays Threat Hunting is a very popular term on the InfoSec community. However, there is not a consensus in the definition of this role. When it comes to our Threat Hunting model, we start everyday by assuming the hypothesis that all of our clients have been compromised somehow. From that point, we use our knowledge to query the telemetry available in the EDR solutions to refute that hypothesis. It is only when we have deemed every match as a false positive that we discard this compromise hypothesis.
+Nowadays Threat Hunting is a very popular term on the InfoSec community. However, there is not a consensus in the definition of this role. When it comes to our Threat Hunting model, we start everyday by assuming the hypothesis that all of our clients have been compromised somehow. From that point, we use our knowledge to query the telemetry available in the EDR solutions to refute that hypothesis. It is only when we have deemed every match as a false positive that we discard the compromise hypothesis.
 
-EDR solutions are the weapon of choice in our model of Threat Hunting. We also aim to be agnostic to the technology and capable of integrating our service in heterogeneous client environments. Hence, it is a must for us to know those solutions that can handle our Threat Hunting model, those that can not, and the evolution of both groups over time. This project implements an ad hoc methodology for evaluating EDR solutions according to our Threat Hunting model. 
+EDR solutions are the weapon of choice in our model of Threat Hunting. We also aim to be agnostic to the technology and capable of integrating our service in heterogeneous client environments. Hence, it is a must for us to know the solutions that can handle our Threat Hunting model, the ones that can not, and the evolution of both groups over time. This project implements an ad hoc methodology for evaluating EDR solutions according to our Threat Hunting model. 
 
-This is an alive project, and it will be updated as we perform new evaluations and revisit old solutions to check for improvements.
+**This is an alive project, and it will be updated as we perform new evaluations and revisit old solutions to check for improvements.**
 
 <p align="center">
   <img src="https://github.com/blackarrowsec/EDR-Evaluation-Methodology/assets/44729887/ac602bc4-73a8-48c1-b1b0-befdb60bfa96" width="960" >
