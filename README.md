@@ -16,6 +16,17 @@ This is an alive project, and it will be updated as we perform new evaluations a
 **Disclaimer:** since there is no way of translating all the information included in the project's document to markdown tables, we will not be adding neither the section "Conlusions" nor the comments that give context to the score of each feature. In order to access the complete project, download the last version of this repository.
 
 **Last Updated:** 20/06/2024
+<br>
+
+### Legend
+| Table value 	| Description
+|:---------------:|-----------------------
+| 🟩     	| Feature is implemented properly           	       
+| 🟥     	| Feature is not implemented
+| 🟨     	| Feature is partially implemented
+| ☠️     	| NO-GO feature
+
+<br>
 
 ## Telemetry Section
 
