@@ -5,9 +5,7 @@ Nowadays Threat Hunting is a very popular term on the InfoSec community. However
 
 EDR solutions are the weapon of choice in our model of Threat Hunting. We also aim to be agnostic to the technology and capable of integrating our service in heterogeneous client environments. Hence, it is a must for us to know those solutions that can handle our Threat Hunting model, those that can not, and the evolution of both groups over time. This project implements an ad hoc methodology for evaluating EDR solutions according to our Threat Hunting model. 
 
-This is an alive project, and will be updated as we perform new evaluations and revisit old solutions to check for improvements.
-
-Besides the updated version of the methodology in this repository, you can access the Google SpreadSheet Table [here](https://docs.google.com/spreadsheets/d/1fTuqEXysxNzNURoHKDjuuayd4Kyifvpp/edit?usp=sharing&ouid=101713221252055534624&rtpof=true&sd=true).
+This is an alive project, and it will be updated as we perform new evaluations and revisit old solutions to check for improvements.
 
 <p align="center">
   <img src="https://github.com/blackarrowsec/EDR-Evaluation-Methodology/assets/44729887/ac602bc4-73a8-48c1-b1b0-befdb60bfa96" width="960" >
@@ -15,7 +13,7 @@ Besides the updated version of the methodology in this repository, you can acces
 
 # Updated Evaluation Tables
 
-**Disclaimer:** since there is no way of translating all the information included in the project's document in this repository to markdown tables, in this section is missing both the section "Conlusions" and the comments that give context to the score of each feature. For accessing the complete project, download the last version of this repository.
+**Disclaimer:** since there is no way of translating all the information included in the project's document to markdown tables, we will not be adding neither the section "Conlusions" or the comments that give context to the score of each feature. In order to access the complete project, download the last version of this repository.
 
 **Last Updated:** 20/06/2024
 
