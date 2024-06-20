@@ -27,7 +27,7 @@ This is an alive project, and it will be updated as we perform new evaluations a
 |                                | Files ☠️                    | 🟩                      | 🟥                | 🟩                                      
 |                                | Network ☠️                  | 🟩                      | 🟩                | 🟩                                    
 |                                | Logon ☠️                    | 🟩                      | 🟩                | 🟨                                                     
-|                                | Schedule Tasks              | 🟥                       | 🟥               | 🟥                                                         
+|                                | Scheduled Tasks              | 🟥                       | 🟥               | 🟥                                                         
 | **Windows**                    | Processes ☠️                | 🟩                      | 🟩                | 🟩                                                
 |                                | Files ☠️                    | 🟩                      | 🟥                | 🟩                                       
 |                                | Network ☠️                  | 🟩                      | 🟩                | 🟩                                    
@@ -36,7 +36,7 @@ This is an alive project, and it will be updated as we perform new evaluations a
 |                                | AMSI/Dotnet                 | 🟨                      | 🟥                | 🟩               
 |                                | Event Logs                  | 🟨                      | 🟨                | 🟩               
 |                                | Modules ☠️                  | 🟩                     | 🟥                | 🟩               
-|                                | Schedule Tasks              | 🟩                      | 🟩                | 🟩                             
+|                                | Scheduled Tasks              | 🟩                      | 🟩                | 🟩                             
 
 ## Query Language Section
 
