@@ -10,6 +10,8 @@ EDR solutions are the weapon of choice in our model of Threat Hunting. We also a
 # Latest evaluations results
 The graphics below showcase the results of the last homologation evaluations, presented in a visual and executive way. For more details about the results, please refer the full evaluations in the Excel sheets:
 
+**Last updated: 26/11/24**
+
 ## CrowdStrike [2024]
 <img src="https://github.com/user-attachments/assets/237d5d3d-2c80-4080-a1e2-17cd72f2bab1" width="400">
 
