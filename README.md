@@ -36,7 +36,7 @@ The graphics below showcase the results of the last homologation evaluations, pr
 
 Authors
 ---------------
-Julio J. Estévez-Pereira ([@nmapcansave](https://twitter.com/nmapcansave))<br>Alberto Terceiro Plumed (terceiroplumed@protonmail.com)
+Julio J. Estévez-Pereira (juliojairo.estevez@blackarrow.com)<br>Alberto Terceiro Plumed (alberto.terceiro@blackarrow.com)
 
 Colaborators
 ---------------
